@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ExpressJS and MongoDB**
 
-- 👯 I’m looking to collaborate on **Web applications and Minecraft Bots**
+- 👯 I’m looking to collaborate on **Web applications, Minecraft bots and mods, and Discord bots**
 
 - 📫 Connect with me **takumisan486@gmail.com**
 
