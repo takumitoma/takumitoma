@@ -16,6 +16,3 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=takumitoma&" alt="takumitoma" />
 </p>
-
-
-<br><br><br><br><br><br><br><br>
